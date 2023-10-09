@@ -1,7 +1,7 @@
 import unittest
 from CariBilanganTerbesar import cari_bilangan_terbesar
 
-# ! Cara run php test: python -m unittest test_CariBilanganTerbesar
+# ! Cara run Python test: python -m unittest test_CariBilanganTerbesar
 
 class TestCariBilanganTerbesar(unittest.TestCase):
     def test_cari_terbesar(self):

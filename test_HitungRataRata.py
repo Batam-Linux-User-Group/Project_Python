@@ -1,7 +1,7 @@
 import unittest
 from HitungRataRata import hitung_rata_rata
 
-# ! Cara run php test: python -m unittest test_HitungRataRata
+# ! Cara run Python test: python -m unittest test_HitungRataRata
 
 class TestHitungRataRata(unittest.TestCase):
     def test_hitung_rata_rata(self):

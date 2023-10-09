@@ -1,7 +1,7 @@
 import unittest
 from HitungKata import hitung_kata
 
-# ! Cara run php test: python -m unittest test_HitungKata
+# ! Cara run Python test: python -m unittest test_HitungKata
 
 class TestHitungKata(unittest.TestCase):
     def test_hitung_kata_kalimat_kosong(self):

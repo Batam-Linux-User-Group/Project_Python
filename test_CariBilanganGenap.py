@@ -1,7 +1,7 @@
 import unittest
 from CariBilanganGenap import cari_bilangan_genap
 
-# ! Cara run php test: python -m unittest test_CariBilanganGenap
+# ! Cara run Python test: python -m unittest test_CariBilanganGenap
 
 class TestCariBilanganGenap(unittest.TestCase):
     def test_cari_bilangan_genap(self):
