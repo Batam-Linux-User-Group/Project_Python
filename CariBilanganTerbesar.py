@@ -5,9 +5,6 @@
  * Output: 10
 """
 
+# Jangan Ubah nama function
 def cari_bilangan_terbesar(array):
-    terbesar = array[0] if array else None  # Anggap elemen pertama sebagai terbesar awalnya
-    for bilangan in array:
-        if bilangan > terbesar:
-            terbesar = bilangan  # Jika bilangan lebih besar, perbarui nilai terbesar
-    return terbesar
+    # Tulis kodemu disini

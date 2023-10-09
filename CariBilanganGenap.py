@@ -5,6 +5,6 @@
  * Output: [2, 8, 6]
 """
 
+# Jangan Ubah nama function
 def cari_bilangan_genap(array):
-    bilangan_genap = [bilangan for bilangan in array if bilangan % 2 == 0]
-    return bilangan_genap
+    # Tulis kodemu disini

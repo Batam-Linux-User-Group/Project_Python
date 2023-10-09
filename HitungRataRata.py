@@ -5,10 +5,6 @@
  * Output: 78
 """
 
+# Jangan Ubah nama function
 def hitung_rata_rata(nilai):
-    total = sum(nilai)
-    jumlah = len(nilai)
-    if jumlah > 0:
-        return round(total / jumlah)
-    else:
-        return 0
+    # Tulis kodemu disini
