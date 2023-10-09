@@ -9,3 +9,5 @@ Repository untuk berkontribusi menggunakan Python
 - Clone project ini ke komputer kamu
 - Kerjakan soal
 - Test hasil jawabanmu pada file yang berawalan test
+
+aku mengubah readme nya
